@@ -1,2 +1,2 @@
 Feature 1 change in branch feature 2
-Feature 1 change
+Feature 1 on branch 1
